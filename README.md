@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe Rodriguez Asenjo</h1>
+<h1 align="center">Hi!!, I'm Felipe Rodriguez Asenjo</h1>
 <h3 align="center">A passionate python developer from Chile</h3>
 
 - 🔭 I’m currently working on **Portfolio Python**
