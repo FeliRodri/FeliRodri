@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Flask, Django**
 
-- 📫 How to reach me **f.rodriguez.asenjo@gmail.com**
+- 📫 How to reach me **felipe_dev@felirodri.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
